@@ -19,5 +19,8 @@ This project focuses on analyzing software performance and building a dashboard 
 - Peak usage at specific times
 - Performance optimization needed
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 🚀 Author
 Amit Tiwari
